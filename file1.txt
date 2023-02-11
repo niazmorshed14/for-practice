@@ -2,3 +2,7 @@ kichu line add korlam
 ekhane aro kichu line add korlam
 dhore nea jete pare eta ekta bug fix
 aro kichu changes
+ok change
+done change
+bug fixed
+ready to test
