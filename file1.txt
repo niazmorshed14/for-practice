@@ -1,0 +1,8 @@
+What is a Technical Note?
+A technical note is a publication that provides supporting information for one or more case studies. 
+Most commonly, it provides background information at a deeper level than might be possible within a Muma Case Review (MCR) discussion case. 
+For this reason, such notes are normally constructed as companions to MCR cases.
+
+Topics where a technical note might be appropriate include industry studies, explanations of specific technologies, descriptions of theories or research that might be relevant to a case, and economic or cultural analysis of a particular region—just to name some possibilities. 
+MCR case studies may refer to companion technical notes, or the notes may be totally independent of the case for which they were developed.
+
