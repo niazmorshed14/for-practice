@@ -1,2 +1,2 @@
-kichu line add korlam
-accha thikache
+bug fixes are important
+we can perform automated testing
